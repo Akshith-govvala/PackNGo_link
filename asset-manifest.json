@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/PackNGo_link/static/css/main.2baeaf44.css",
+    "main.js": "/PackNGo_link/static/js/main.d984089d.js",
+    "static/js/453.d4705b4d.chunk.js": "/PackNGo_link/static/js/453.d4705b4d.chunk.js",
+    "static/media/image.png": "/PackNGo_link/static/media/image.a55254c15aeae1c546f0.png",
+    "static/media/logo.jpg": "/PackNGo_link/static/media/logo.6c641f0287caa14272b9.jpg",
+    "static/media/img10.jpg": "/PackNGo_link/static/media/img10.0be03511c28b2bc17f88.jpg",
+    "static/media/img4.jpg": "/PackNGo_link/static/media/img4.9b05ff39221b8b572c22.jpg",
+    "static/media/img2.jpg": "/PackNGo_link/static/media/img2.b0007363e8b52005d465.jpg",
+    "static/media/img3.jpg": "/PackNGo_link/static/media/img3.29a2378719c660d19e96.jpg",
+    "static/media/img7.jpg": "/PackNGo_link/static/media/img7.6496f85902f770d8987f.jpg",
+    "static/media/img1.jpg": "/PackNGo_link/static/media/img1.541b1c8d876b5472e974.jpg",
+    "static/media/img5.jpg": "/PackNGo_link/static/media/img5.9e976207f20e9d9a1261.jpg",
+    "static/media/img6.jpg": "/PackNGo_link/static/media/img6.a354b2db2d41345a06a1.jpg",
+    "static/media/img9.jpg": "/PackNGo_link/static/media/img9.d1af350ec5503dc3cd22.jpg",
+    "static/media/img16.jpg": "/PackNGo_link/static/media/img16.8c1495135bac0106c01a.jpg",
+    "static/media/img13.jpg": "/PackNGo_link/static/media/img13.adeea0310eac966be37f.jpg",
+    "static/media/img15.jpg": "/PackNGo_link/static/media/img15.41b5eb6c48014c2f7c46.jpg",
+    "static/media/img12.jpg": "/PackNGo_link/static/media/img12.c16c6cf6c7fe0f5b0882.jpg",
+    "static/media/img18.jpg": "/PackNGo_link/static/media/img18.06cb94bd3728bf3bd59e.jpg",
+    "static/media/img8.jpg": "/PackNGo_link/static/media/img8.607bd008977204d7dbb4.jpg",
+    "static/media/img17.jpg": "/PackNGo_link/static/media/img17.157859ac3d5fc86e6065.jpg",
+    "static/media/img11.jpg": "/PackNGo_link/static/media/img11.d2bb33710d52f991f65c.jpg",
+    "static/media/img14.jpg": "/PackNGo_link/static/media/img14.295c8afdb233404ca767.jpg",
+    "index.html": "/PackNGo_link/index.html",
+    "main.2baeaf44.css.map": "/PackNGo_link/static/css/main.2baeaf44.css.map",
+    "main.d984089d.js.map": "/PackNGo_link/static/js/main.d984089d.js.map",
+    "453.d4705b4d.chunk.js.map": "/PackNGo_link/static/js/453.d4705b4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2baeaf44.css",
+    "static/js/main.d984089d.js"
+  ]
+}
